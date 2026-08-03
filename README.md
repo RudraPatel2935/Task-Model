@@ -22,4 +22,4 @@ A simple PyTorch text model that trains on the provided text corpus and predicts
 python model.py
 ```
 
-When prompted, enter a text input to get the model's next-token prediction.
+
